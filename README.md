@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2026.05-blue.svg" alt="202605">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-337-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-338-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -65,6 +65,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/KeygraphHQ/shannon - **Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
+
+- https://github.com/SickHackPark/SickHackShark - **SickHackShark is an AI-powered CTF (Capture The Flag) cybersecurity competition automation platform. It employs a multi-agent architecture to automate web security testing tasks, including information gathering, vulnerability scanning, vulnerability exploitation, and flag acquisition**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
 
 ### AI Model-Powered Scanners
 
