@@ -1,14 +1,15 @@
-English | [简体中文](./README_CN.md)
+English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
  
 <p align="center">
-<img src="./logo.png" width="300px">
+<img src="./logo.png" width="300px" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.35), 0 0 20px rgba(139, 92, 246, 0.2); filter: drop-shadow(0 0 12px rgba(167, 139, 250, 0.3));">
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.05-blue.svg" alt="202605">
-  <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-338-blue.svg" alt="number">
- <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
+  <img src="https://img.shields.io/badge/version-2026.05-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="version">
+  <img src="https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-8b5cf6?style=flat-square" alt="license">
+ <img src="https://img.shields.io/badge/scanners-338-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxbC05IDV2OWw5IDUgOS01di05bC05LTV6Ii8+PC9zdmc+" alt="number">
+ <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box&logoColor=%23a78bfa"></a>
+ </p>
  </p>
 <br/>
 
@@ -24,13 +25,45 @@ English | [简体中文](./README_CN.md)
 
 ## Introduction
 
-**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which has collected more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as nmap, w3af, brakeman, arachni, nikto, metasploit, aircrack-ng will not be included in the scope of collection.**
+**Scanners Box** is a curated **arsenal of 9,000+ ⭐ open-source cybersecurity treasures** — with a special focus on **AI-driven automated security agents** and **Red Team / Blue Team** tooling. All tools feature **source code available**, covering 10+ categories from subdomain enumeration to IoT auditing, mobile analysis, smart contract scanning, and cloud security.
+
+## Project A³C
+
+<div align="center">
+
+**A³C — AI Autonomous Cybersecurity Agent**
+
+*The next generation of AI-powered offensive & defensive security agents*
+
+[![Status: Planning](https://img.shields.io/badge/Status-Planning-indigo?style=flat-square&logo=github)](https://github.com/A3C-Security)
+[![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/A3C-Security)
+
+<img src="./badges/A3C.png" alt="A³C Scanner-Box Authenticated">
+
+*Projects displaying the **A³C badge above** are **officially recommended & authenticated** by Scanners Box as trusted AI cybersecurity tools.*
+
+</div>
+
+> 🚀 **Coming Soon** — A³C is an open-source project dedicated to building **fully autonomous AI cybersecurity agents** that can independently execute penetration testing, vulnerability assessment, threat hunting, and incident response. Stay tuned!
+
+| Capability | Description |
+|:-----------|:------------|
+| 🔴 **AI Autonomous Red Team** | AI agents that autonomously plan and execute attack chains |
+| 🔵 **AI Autonomous Blue Team** | AI agents for automated defense, detection, and response |
+| 🛡️ **AI SOC Agents** | AI-driven Security Operations Center for automated monitoring, alerting & incident response |
+| 🎧 **AI DevSecOps Assistant** | AI-powered security operations assistant for intelligent Q&A, triage & guidance |
+| 🔍 **AI Cyber Attacks Attribution** | AI-driven intrusion forensics and threat attribution for rapid incident analysis |
+| 💼 **AI Office Network Security** | AI agents for enterprise office network security, DLP & insider threat prevention |
+
+<p align="center">
+  <sub>📌 Follow the <a href="https://github.com/A3C-Security"><b>A³C Organization</b></a> for updates · <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Collaboration">Collaborate with us</a></sub>
+</p>
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AI Autonomous Pentesting Agent](#ai-autonomous-pentesting-agent)
+- [AI Autonomous Cybersecurity Agent](#ai-autonomous-cybersecurity-agent)
 - [AI Model-Powered Scanners](#ai-model-powered-scanners)
 - [Scanners for AI Apps](#scanners-for-ai-apps)
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
@@ -56,7 +89,7 @@ English | [简体中文](./README_CN.md)
 
 ***
 
-### AI Autonomous Pentesting Agent
+### AI Autonomous Cybersecurity Agent
 
 - https://github.com/oritera/Cairn - **A AI general-purpose state-space search engine, validated first on autonomous penetration testing**
 
@@ -1488,16 +1521,19 @@ English | [简体中文](./README_CN.md)
 
 The purpose of this collection is to provide various types of  open-source security scanners that can help companies to be more safer.
 
-## Commit Symbolic Description
+## Commit Convention
 
-**[↑scanner]xxx** means **update scanner info**<br>
-**[+scanner]xxx** means **add scanner**<br>
-**[-scanner]xxx** means **remove scanner**<br>
-**[+category]xxx** means **add scanner category**<br>
-**[-category]xxx** means **remove scanner category**<br>
-**[+contributor]xxx** means **add someone to acknowledgments**<br>
-**[↑contributor]xxx** means **update someone's info for acknowledgments**<br>
-**[↑other]xxx** means **other actions**<br>
+This project follows [Conventional Commits](https://www.conventionalcommits.org/) for commit messages:
+
+| Type | Description |
+|:-----|:------------|
+| `feat(scanner): xxx` | Add a new scanner |
+| `fix(scanner): xxx` | Update scanner info |
+| `remove(scanner): xxx` | Remove a scanner |
+| `feat(category): xxx` | Add a new category |
+| `remove(category): xxx` | Remove a category |
+| `docs(credits): xxx` | Update acknowledgments |
+| `chore: xxx` | Other changes |
 
 ## Authors
 
@@ -1549,6 +1585,12 @@ We would like to thanks the following security researchers for their valuable fe
 
 ## Stargazers
 
-[![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
+<p align="center">
+  <a href="https://github.com/We5ter/Scanners-Box/stargazers">
+    <img src="https://img.shields.io/github/stars/We5ter/Scanners-Box?style=for-the-badge&logo=github&color=%23a78bfa&label=⭐%20Star" alt="GitHub Stars">
+  </a>
+  <br/><br/>
+  <img src="https://api.star-history.com/svg?repos=We5ter/Scanners-Box&type=Date&theme=dark" alt="Star History Chart">
+</p>
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2017-2026
