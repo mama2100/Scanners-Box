@@ -83,17 +83,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### Agente Autónomo de Ciberseguridad con IA
-
-- https://github.com/KeygraphHQ/shannon - **Shannon Lite es un probador de penetración de IA con caja blanca que opera de forma autónoma en aplicaciones web y API. Analiza el código fuente, identifica vectores de ataque y ejecuta exploits reales antes de llegar a producción para demostrar vulnerabilidades.**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
-
-- https://github.com/weareaisle/nano-analyzer - **Un escáner de vulnerabilidades de día cero mínimo que utiliza LLM, desarrollado por AISLE.**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square)
-
-
 ### Escáneres para aplicaciones de IA
 
 - https://github.com/leondz/garak - **Un escáner de vulnerabilidades para LLM (Grandes Modelos de Lenguaje) que detecta múltiples debilidades como alucinaciones, fugas de datos, inyección de prompts, desinformación, generación de contenido tóxico y jailbreaks.**

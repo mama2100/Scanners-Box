@@ -63,7 +63,6 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AI Autonomous Cybersecurity Agent](#ai-autonomous-cybersecurity-agent)
 - [AI Model-Powered Scanners](#ai-model-powered-scanners)
 - [Scanners for AI Apps](#scanners-for-ai-apps)
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
@@ -88,20 +87,6 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
-
-### AI Autonomous Cybersecurity Agent
-
-- https://github.com/oritera/Cairn - **A AI general-purpose state-space search engine, validated first on autonomous penetration testing**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
-
-- https://github.com/KeygraphHQ/shannon - **Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
-
-- https://github.com/SickHackPark/SickHackShark - **SickHackShark is an AI-powered CTF (Capture The Flag) cybersecurity competition automation platform. It employs a multi-agent architecture to automate web security testing tasks, including information gathering, vulnerability scanning, vulnerability exploitation, and flag acquisition**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
 
 ### AI Model-Powered Scanners
 
