@@ -1,7 +1,7 @@
 English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
  
 <p align="center">
-<img src="./logo.png" width="300px" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.35), 0 0 20px rgba(139, 92, 246, 0.2); filter: drop-shadow(0 0 12px rgba(167, 139, 250, 0.3));">
+<img src="./logo.png" width="300px">
  </p>
 
 <p align="center">
